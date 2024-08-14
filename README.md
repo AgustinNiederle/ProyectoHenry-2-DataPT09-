@@ -34,7 +34,7 @@
 
     KPI solicitado: "Acceso por cada 100 hogares" de varios años (diferenciados por trimestres). El KPI busca controlar el objetivo de  aumento en un 2% del acceso al servicio de internet por trimestre, cada 100 hogares, por provincia. 
 
-    KPI 1: Este KPI compara el acceso a internet entre diferentes provincias o regiones. Sirve para plantear un aumento en la conectividad por parte de la población de todo el país, no solo de la región cercana a Capital Federal. El valor de referencia para los próximos años será la actualidad de Buenos Aires, con el 92% de conexión por Habitantes en 2024. 
+    KPI 1:  Propone un incremento en el ingreso trimestral del 25%, lo que implica un retorno de la inversión del 100% anual. Este valor se propone ante el análisis de los ingresos y se considera posible.
 
     KPI 2: Plantear un aumento del 20% en el servicio de Fibra óptica cada año, o de un 5% por trimestre.
 
