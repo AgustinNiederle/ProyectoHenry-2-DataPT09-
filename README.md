@@ -34,9 +34,13 @@
 
     KPI solicitado: "Acceso por cada 100 hogares" de varios años (diferenciados por trimestres). El KPI busca controlar el objetivo de  aumento en un 2% del acceso al servicio de internet por trimestre, cada 100 hogares, por provincia. 
 
-    KPI 1:  Propone un incremento en el ingreso trimestral del 25%, lo que implica un retorno de la inversión del 100% anual. Este valor se propone ante el análisis de los ingresos y se considera posible.
+    KPI 1: Propone un incremento en el ingreso trimestral del 25%, lo que implica un retorno de la inversión del 100% anual. Este valor se propone ante el análisis de los ingresos y se considera posible.
 
-    KPI 2: Plantear un aumento del 20% en el servicio de Fibra óptica cada año, o de un 5% por trimestre.
+    KPI 2: Plantea el incremento trimestral de accesos a internet sobre el total de habitantes en Argentina, planteando un valor equivalente a 50%. 
+
+    KPI 3: Plantear un aumento del 20% en el servicio de Fibra óptica cada año, o de un 5% por trimestre.
+    
+    KPI 4: por tasa de conversión (conversion rate) que mide la cantidad de clientes que pasan de otras tecnologías (como Cablemodem, ADSL, etc.) a Fibra Óptica por        año. Este dato no lo tenemos, pero a los fines de este análisis podríamos inferir/suponer que hay recambio de tecnologìa por los datos de años anteriores mostrando     la caida en ADSL, simultanea al ascenso de Fibra Óptica y Cablemodem).
 
 ### Insights:
     
