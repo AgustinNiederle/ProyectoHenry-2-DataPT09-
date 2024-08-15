@@ -28,7 +28,7 @@
 
 ### Reporte de análisis en base al dashboard:
 
-    Según lo observado en el EDA, y por la fuente XX (o por casos similares) podemos anticipar que la tecnología Cablemodem migrará por Fibra óptica al menos parcialmente. Esto permite tener en cuenta a los posibles usuarios actuales de Cablemodem, además de los de Fibra óptica, y proyectar capturar esa porción de la población que aún no ha accedido a esta tecnología en provincias como XX, XX y xx, sin contar que con una camapaña adecuada, parte de los usuarios de Fibra óptica podrías migrar a la empresa si ofrece comodidad en el proceso y mejores beneficios.
+    Según lo observado en el EDA podemos anticipar que la tecnología Cablemodem migrará por Fibra óptica al menos parcialmente. Esto permite tener en cuenta a los posibles usuarios actuales de Cablemodem, además de los de Fibra óptica, y proyectar capturar esa porción de la población que aún no ha accedido a esta tecnología en provincias como Catamarca, Jujuy o Salta, sin contar que con una camapaña adecuada, parte de los usuarios de Fibra óptica podrían migrar a la empresa si ofrece comodidad en el proceso y mejores beneficios.
 
 ### Análisis y funcionalidad de los KPIs sugeridos.
 
