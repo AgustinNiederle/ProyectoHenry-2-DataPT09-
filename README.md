@@ -1,5 +1,5 @@
 # **Proyecto Individual II (Data PartTime 09) - Agustín Niederle**
-El objetivo del proyecto desarrollado es entender el funcionamiento de la tecnología de internet en Argentina, sobre todo banda ancha (velocidades de descarga de al menos 768 Kbps y velocidades de carga de al menos 200 Kbps), para así poder asesorar a una empresa interesada en ingrezar al país.
+El objetivo del proyecto desarrollado es entender el funcionamiento de la tecnología de internet en Argentina, sobre todo Banda Ancha (velocidades de descarga de al menos 768 Kbps y velocidades de carga de al menos 200 Kbps), para así poder asesorar a una empresa interesada en ingrezar al país.
 
 El análisis del servicios de telecomunicaciones en Argentinan donde se registran más de 60 millones de conexiones a internet, realizado con los datos obternidos de ENACOM durante un período de casi 10 años (desde 2014 al primer trimestre de 2024). Esto permite identificar tendencias y realidades del sector a nivel nacional. Si bien el análisis se enfoca en el acceso a internet, también se toma en cuenta al resto de los servicios de comunicación.
 
@@ -29,7 +29,7 @@ Según lo observado en el EDA podemos anticipar que la tecnología Cablemodem mi
 
 ## **Análisis y funcionalidad de los KPIs sugeridos.**
 
--KPI solicitado: "Acceso por cada 100 hogares" de varios años (diferenciados por trimestres). El KPI busca controlar el objetivo de  aumento en un 2% del acceso al servicio de internet por trimestre, cada 100 hogares, por provincia. 
+- KPI solicitado: "Acceso por cada 100 hogares" de varios años (diferenciados por trimestres). El KPI busca controlar el objetivo de aumento en un 2% del acceso al servicio de internet por trimestre, cada 100 hogares, por provincia. 
 
 - KPI 1: Propone un incremento en el ingreso trimestral del 25%, lo que implica un retorno de la inversión del 100% anual. Este valor se propone ante el análisis de los ingresos y se considera posible.
 
@@ -43,4 +43,4 @@ Según lo observado en el EDA podemos anticipar que la tecnología Cablemodem mi
     
 Queda en evidencia una desigualdad en oportunidad de acceso a tecnología y sus beneficios por parte del interior del Pais. Esto podría deberse a falta de infraestructura o de inversiones hasta la fecha. Puede recomendarse invertir en las ciudades con menos accesos, no solo para llegar a esa porción de la población que aun no ha accedido.
 
-Tanto cablemodem como Fibra óptica tienen un ascenso muy marcado en los últimos años, lo que indica que son tecnologías en crecimiento y por eso, recomendables para invertir.
+Tanto cablemodem como Fibra óptica tienen un ascenso muy marcado en los últimos años, lo que indica que son tecnologías en crecimiento y, por eso, recomendables para invertir.
